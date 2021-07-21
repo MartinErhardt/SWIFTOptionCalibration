@@ -1,0 +1,17 @@
+Makefile
+Makefile2
+FFTW3/.*
+CMakeFiles/.*
+FFTW3/.*
+LEVMAR/.*
+build_x64/.*
+SWIFT/Z_Exec_CallibrateBS/CMakeFiles/CMakeDirectoryInformation.cmake
+*.dir
+*.check_cache
+*.cmake
+usr
+CMakeFiles
+CMakeCache.txt
+SWIFT/CMakeCache.txt
+SWIFT/libSWIFT.a
+build_x64/

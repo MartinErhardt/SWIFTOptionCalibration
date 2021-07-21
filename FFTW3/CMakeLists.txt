@@ -8,8 +8,8 @@ message(${PROJECT_NAME})
 project(${PROJECT_NAME})
 
 set(SOURCES
-        include_fftw3.h
-        ../Test/test.cpp)
+        include_fftw3.h)
+#        ../Test/test.cpp)
 
 # For any nested file, replace "/" by  "\"
 foreach(source ${SOURCES})
